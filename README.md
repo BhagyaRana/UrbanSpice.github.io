@@ -4,7 +4,7 @@
 
 Restaurant Website Development Repository
 
-[Live Demo](https://mystifying-shaw-aa5076.netlify.app/)
+[Live Demo](https://urbanspice.netlify.app)
 
 **"Urban Spice"**-Restaurant Website
 
